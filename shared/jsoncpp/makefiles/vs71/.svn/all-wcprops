@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/jsoncpp/code/!svn/ver/109/trunk/jsoncpp/makefiles/vs71
+END
+test_lib_json.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/jsoncpp/code/!svn/ver/109/trunk/jsoncpp/makefiles/vs71/test_lib_json.vcproj
+END
+lib_json.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/jsoncpp/code/!svn/ver/109/trunk/jsoncpp/makefiles/vs71/lib_json.vcproj
+END
+jsoncpp.sln
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/jsoncpp/code/!svn/ver/109/trunk/jsoncpp/makefiles/vs71/jsoncpp.sln
+END
+jsontest.vcproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/jsoncpp/code/!svn/ver/109/trunk/jsoncpp/makefiles/vs71/jsontest.vcproj
+END

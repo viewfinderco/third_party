@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/jsoncpp/code/!svn/ver/274/trunk/jsoncpp/src/lib_json
+END
+json_valueiterator.inl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/jsoncpp/code/!svn/ver/254/trunk/jsoncpp/src/lib_json/json_valueiterator.inl
+END
+version.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/jsoncpp/code/!svn/ver/256/trunk/jsoncpp/src/lib_json/version.h.in
+END
+json_batchallocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/jsoncpp/code/!svn/ver/194/trunk/jsoncpp/src/lib_json/json_batchallocator.h
+END
+json_internalmap.inl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/165/trunk/jsoncpp/src/lib_json/json_internalmap.inl
+END
+json_internalarray.inl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/jsoncpp/code/!svn/ver/198/trunk/jsoncpp/src/lib_json/json_internalarray.inl
+END
+json_value.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/268/trunk/jsoncpp/src/lib_json/json_value.cpp
+END
+json_writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/jsoncpp/code/!svn/ver/272/trunk/jsoncpp/src/lib_json/json_writer.cpp
+END
+sconscript
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/jsoncpp/code/!svn/ver/46/trunk/jsoncpp/src/lib_json/sconscript
+END
+json_reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/jsoncpp/code/!svn/ver/274/trunk/jsoncpp/src/lib_json/json_reader.cpp
+END
+json_tool.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/jsoncpp/code/!svn/ver/156/trunk/jsoncpp/src/lib_json/json_tool.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/256/trunk/jsoncpp/src/lib_json/CMakeLists.txt
+END

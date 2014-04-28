@@ -1,0 +1,112 @@
+libphonenumber (5.5) precise; urgency=low
+
+  * Code changes:
+    - Changed internal initialization code and made more fields final.
+      Note that we now throw an exception if an attempt is made to set the
+      metadata more than once (which should only happen during testing).
+    - Fix problem with formatNumberForMobileDialing for HU and CL.
+  * Metadata changes:
+    - Updated alternate formatting data for country calling code(s): 49
+    - Updated metadata for region code(s):
+    AM, BF, BR, CR, DE, MA, MG, MM, SA, TL, UA
+    - Updated geocoding data for country calling code(s): 374 (am, en,
+    ru)
+
+ -- David Beaumont <dbeaumont@google.com>  Wed, 08 May 2013 15:52:22 +0200
+
+libphonenumber (5.4.2) precise; urgency=low
+
+  * Metadata changes:
+    - Updated metadata for region code(s): BF, GA, IN, KR, MV, PH, SO,
+    UA, US
+
+ -- Shaopeng Jia <shaopengjia@google.com>  Fri, 19 Apr 2013 15:55:35 +0200
+
+libphonenumber (5.4.1) precise; urgency=low
+
+  * Metadata changes:
+    - Updated metadata for region code(s): BF, BH, CR, EC, IR, MG, PF,
+    TD, TN
+    - New geocoding data for country calling code(s): 374 (am, ru)
+    - Updated geocoding data for country calling code(s):
+    98 (en, fa), 358 (en, se), 374 (en)
+
+ -- Shaopeng Jia <shaopengjia@google.com>  Mon, 25 Mar 2013 13:42:45 +0100
+
+libphonenumber (5.4) precise; urgency=low
+
+  * Code changes:
+    - Switch formatNumberForMobileDialing to prefer national format to international format when the
+      number is dialed from the same region the phone number is from.
+  * Metadata changes:
+    - Updated metadata for region code(s):
+    BF, CD, CN, CZ, GN, IR, JP, KR, KW, LR, NZ, TT, UG, ZW
+    - New geocoding data for country calling code(s): 82 (cs)
+    - Updated geocoding data for country calling code(s):
+    82 (en, fr, ko, zh, zh_Hant), 98 (en, fa), 263 (en)
+
+ -- Shaopeng Jia <shaopengjia@google.com>  Thu, 07 Mar 2013 14:54:10 +0100
+
+libphonenumber (5.3.2) precise; urgency=low
+
+  * Metadata changes:
+    - Updated metadata for region code(s):
+    BD, BE, BY, CA, EH, GR, IE, IN, IS, LI, MA, MU, PT, SE, SG, TL
+    - New geocoding data for country calling code(s):
+    375 (be, en, ru), 1 (en)
+
+ -- Lara Rennie <lararennie@google.com>  Mon, 11 Feb 2013 15:21:35 +0100
+
+libphonenumber (5.3.1) precise; urgency=low
+
+  * Metadata changes:
+    - Updated metadata for region code(s): CN, DK, EH, GN, KH, KW, MA,
+    MY, PA
+
+ -- David Yonge-Mallo <davinci@google.com>  Fri, 25 Jan 2013 14:58:55 +0100
+
+libphonenumber (5.3) lucid; urgency=low
+  * Code changes:
+    - Handling UAN numbers in Argentina better when dialling them locally from a
+      mobile
+  * Metadata changes:
+    - Updated metadata for region code(s):
+    BE, BW, CL, CN, CO, EH, KW, MA, ML, NG, PL, SY, ZA, ZM
+    - New geocoding data for country calling code(s): 32 (en, fr, nl)
+    - Updated geocoding data for country calling code(s): 27 (en), 86
+    (en, zh)
+
+ -- Lara Rennie <lararennie@google.com>  Tue, 08 Jan 2013 16:49:27 +0100
+
+libphonenumber (5.2.2) lucid; urgency=low
+
+  * Metadata changes:
+    - New metadata for region code(s): EH
+    - Updated metadata for region code(s): BR, CL, CR, IN, MA, PG, PK,
+    RO
+    - New geocoding data for country calling code(s): 241 (en)
+
+ -- Lara Rennie <lararennie@google.com>  Thu, 06 Dec 2012 13:27:48 +0100
+
+libphonenumber (5.2.1) lucid; urgency=low
+
+  * Metadata changes:
+    - Updated metadata for region code(s):
+    AE, AW, BF, CN, DE, JO, KE, KH, LT, MM, MU, NG, RW, SR, TR, VU
+    - New geocoding data for country calling code(s): 359 (bg, en)
+
+ -- Lara Rennie <lararennie@google.com>  Mon, 26 Nov 2012 18:31:02 +0100
+
+libphonenumber (5.2) lucid; urgency=low
+
+  * Metadata changes:
+    - Updated metadata for region code(s): DE, GR, HR, OM, SB, ZA
+    - Updated geocoding data for country calling code(s): 30 (el, en)
+
+ -- David Beaumont <dbeaumont@google.com>  Wed, 10 Oct 2012 17:42:28 +0200
+
+libphonenumber (3.8) unstable; urgency=low
+
+  * Initial Debian Package.
+
+ -- Fredrik Roubert <roubert@google.com>  Tue, 16 Aug 2011 16:11:46 +0200

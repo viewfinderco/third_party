@@ -1,0 +1,10 @@
+K 10
+svn:ignore
+V 59
+*.actual
+*.actual-rewrite
+*.process-output
+*.rewrite
+*.pyc
+
+END

@@ -1,0 +1,659 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data
+END
+test_array_03.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_array_03.expected
+END
+test_basic_01.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_01.expected
+END
+test_string_05.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_05.json
+END
+test_array_07.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_array_07.expected
+END
+test_basic_05.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_05.expected
+END
+test_real_12.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_real_12.expected
+END
+test_real_04.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_04.expected
+END
+test_string_unicode_03.json
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_unicode_03.json
+END
+test_array_02.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_array_02.json
+END
+test_basic_09.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_09.expected
+END
+test_large_01.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_large_01.expected
+END
+test_real_08.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_real_08.expected
+END
+test_array_06.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_array_06.json
+END
+test_basic_04.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_04.json
+END
+test_real_11.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_real_11.json
+END
+test_real_03.json
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_03.json
+END
+test_integer_04.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_integer_04.expected
+END
+test_basic_08.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_08.json
+END
+test_real_07.json
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_07.json
+END
+test_integer_06_64bits.json
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_integer_06_64bits.json
+END
+test_integer_07_64bits.json
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_integer_07_64bits.json
+END
+test_integer_08_64bits.json
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_integer_08_64bits.json
+END
+test_integer_03.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_integer_03.json
+END
+test_object_03.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_object_03.expected
+END
+test_string_03.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_03.expected
+END
+test_comment_01.json
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_comment_01.json
+END
+test_string_unicode_01.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_unicode_01.expected
+END
+test_object_02.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_object_02.json
+END
+test_string_02.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_02.json
+END
+test_string_unicode_05.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_unicode_05.expected
+END
+test_array_04.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_array_04.expected
+END
+test_basic_02.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_02.expected
+END
+test_real_01.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_01.expected
+END
+test_preserve_comment_01.json
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_preserve_comment_01.json
+END
+test_basic_06.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_06.expected
+END
+test_real_05.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_05.expected
+END
+test_string_unicode_04.json
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_unicode_04.json
+END
+test_array_03.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_array_03.json
+END
+test_basic_01.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_01.json
+END
+test_real_09.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_real_09.expected
+END
+test_array_07.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_array_07.json
+END
+test_integer_01.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_integer_01.expected
+END
+test_basic_05.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_05.json
+END
+test_real_12.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_real_12.json
+END
+test_real_04.json
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_04.json
+END
+test_integer_05.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_integer_05.expected
+END
+test_basic_09.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_09.json
+END
+test_large_01.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_large_01.json
+END
+test_real_08.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_real_08.json
+END
+test_complex_01.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_complex_01.expected
+END
+test_integer_04.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_integer_04.json
+END
+test_object_04.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_object_04.expected
+END
+test_string_04.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_04.expected
+END
+test_string_unicode_02.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_unicode_02.expected
+END
+test_array_01.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_array_01.expected
+END
+test_object_03.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_object_03.json
+END
+test_string_03.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_03.json
+END
+fail_test_array_01.json
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/fail_test_array_01.json
+END
+test_array_05.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_array_05.expected
+END
+test_basic_03.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_03.expected
+END
+test_real_10.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_real_10.expected
+END
+test_real_02.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_02.expected
+END
+test_string_unicode_01.json
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_unicode_01.json
+END
+test_basic_07.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_07.expected
+END
+test_real_06.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_06.expected
+END
+test_string_unicode_05.json
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_unicode_05.json
+END
+test_array_04.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_array_04.json
+END
+test_basic_02.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_02.json
+END
+test_real_01.json
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_01.json
+END
+test_integer_02.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_integer_02.expected
+END
+test_basic_06.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_06.json
+END
+test_real_05.json
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_05.json
+END
+test_real_09.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_real_09.json
+END
+test_integer_01.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_integer_01.json
+END
+test_object_01.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_object_01.expected
+END
+test_string_01.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_01.expected
+END
+test_integer_05.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_integer_05.json
+END
+test_string_05.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_05.expected
+END
+test_string_unicode_03.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_unicode_03.expected
+END
+test_complex_01.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_complex_01.json
+END
+test_array_02.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_array_02.expected
+END
+test_object_04.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_object_04.json
+END
+test_string_04.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_04.json
+END
+test_array_06.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_array_06.expected
+END
+test_basic_04.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_04.expected
+END
+test_real_11.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_real_11.expected
+END
+test_real_03.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_03.expected
+END
+test_string_unicode_02.json
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_unicode_02.json
+END
+test_array_01.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_array_01.json
+END
+test_basic_08.expected
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_08.expected
+END
+test_real_07.expected
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_07.expected
+END
+test_array_05.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_array_05.json
+END
+test_basic_03.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_03.json
+END
+test_real_10.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_real_10.json
+END
+test_real_02.json
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_02.json
+END
+test_integer_06_64bits.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_integer_06_64bits.expected
+END
+test_integer_07_64bits.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_integer_07_64bits.expected
+END
+test_integer_08_64bits.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_integer_08_64bits.expected
+END
+test_integer_03.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_integer_03.expected
+END
+test_basic_07.json
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_basic_07.json
+END
+test_real_06.json
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_real_06.json
+END
+test_comment_01.expected
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_comment_01.expected
+END
+test_integer_02.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_integer_02.json
+END
+test_object_02.expected
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_object_02.expected
+END
+test_string_02.expected
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_02.expected
+END
+test_preserve_comment_01.expected
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_preserve_comment_01.expected
+END
+test_object_01.json
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/jsoncpp/code/!svn/ver/86/trunk/jsoncpp/test/data/test_object_01.json
+END
+test_string_01.json
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_01.json
+END
+test_string_unicode_04.expected
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/jsoncpp/code/!svn/ver/238/trunk/jsoncpp/test/data/test_string_unicode_04.expected
+END

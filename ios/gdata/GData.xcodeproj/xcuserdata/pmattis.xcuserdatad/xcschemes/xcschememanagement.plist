@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>DevelopmentTestTool.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+		<key>GDataFramework.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>4</integer>
+		</dict>
+		<key>GDataIPhoneUnitTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>5</integer>
+		</dict>
+		<key>GDataTouchStaticLib.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>3</integer>
+		</dict>
+		<key>GDataUnitTests.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4F14A9DC0B1276B70072EBB8</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F1AD9010B71603F00DC0485</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F1C6E0E1027B3CE00B46459</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F38F6A50B66E91D00B24B81</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4F85DEE0103B83B700B4C418</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

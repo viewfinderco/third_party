@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 53
+*.actual
+*.actual-rewrite
+*.process-output
+*.rewrite
+
+END

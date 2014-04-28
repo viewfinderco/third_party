@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/jsoncpp/code/!svn/ver/267/trunk/jsoncpp/devtools
+END
+agent_vmxp.json
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/jsoncpp/code/!svn/ver/267/trunk/jsoncpp/devtools/agent_vmxp.json
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/jsoncpp/code/!svn/ver/237/trunk/jsoncpp/devtools/__init__.py
+END
+agent_vmw7.json
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/jsoncpp/code/!svn/ver/266/trunk/jsoncpp/devtools/agent_vmw7.json
+END
+batchbuild.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/jsoncpp/code/!svn/ver/266/trunk/jsoncpp/devtools/batchbuild.py
+END
+tarball.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/jsoncpp/code/!svn/ver/237/trunk/jsoncpp/devtools/tarball.py
+END
+antglob.py
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/jsoncpp/code/!svn/ver/237/trunk/jsoncpp/devtools/antglob.py
+END
+fixeol.py
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/jsoncpp/code/!svn/ver/237/trunk/jsoncpp/devtools/fixeol.py
+END
+licenseupdater.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/jsoncpp/code/!svn/ver/237/trunk/jsoncpp/devtools/licenseupdater.py
+END
